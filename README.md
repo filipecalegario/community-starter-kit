@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome to **Filipe's** repository for GitHub Learning Lab course. This repository will be used during the different activities to learn about making the project friendlier for collaboration.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Steps and steps
+- More steps to be followed
+- Things to do
+- Issues and pull requests to close
 
 ## Getting started
 
